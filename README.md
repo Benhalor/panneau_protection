@@ -1,5 +1,7 @@
 # Plans pour panneau de protection postillons
 
+![Image description](link-to-image)
+
 Plans pour panneau de protection contre les postillons
 
 Ayant vu que des pharmaciens suisses utilisent des panneaux de protection pour se protéger des postillons, je mets à  disposition des plans pour en fabriquer un à partir d'une imprimante 3D et d'une découpe LASER.
