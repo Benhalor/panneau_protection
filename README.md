@@ -1,6 +1,6 @@
 # Plans pour panneau de protection postillons
 
-![Image description](link-to-image)
+![Image description](https://raw.githubusercontent.com/Benhalor/panneau_protection/master/image.JPG)
 
 Plans pour panneau de protection contre les postillons
 
